@@ -44,11 +44,11 @@ const items = [{
     "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
 },
 
-//{
-    //"title": "Dribbble",
-    //"subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-    //"image": dribbble,
-    //"link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+{
+    "title": "Dribbble",
+    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
+    "image": dribbble,
+    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
 },
 {
     "title": "Telegram",
