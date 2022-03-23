@@ -15,21 +15,21 @@ const items = [{
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏠 of my open-source projects",
+    "subtitle": "@NewzulPakaya | 🏠 of my open-source projects",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/NewzulPakaya" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik | Hub of my awesome 😎 pics",
+    "subtitle": "@NewzulPakaya | Hub of my awesome 😎 pics",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/n_z_l_l" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | Don't forget to follow me 😉",
+    "subtitle": "@NewzulPakaya | Don't forget to follow me 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "link": "https://twitter.com/BadakBerenangVI?t=00zPI2l6e6J6X9GWM2raWA&s=09"// twitter profile link 
 },
 {
     "title": "Apps",
@@ -44,17 +44,17 @@ const items = [{
     "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
 },
 
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+//{
+    //"title": "Dribbble",
+    //"subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
+    //"image": dribbble,
+    //"link": "https://dribbble.com/virtuonic" // Dribbble profile link 
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly, Don't hesitate! ",
+    "subtitle": "@NewZulPakaya | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://t.me/BADAKBERENNANG" //Telegram Pofile 
 }]
 
 export default items
