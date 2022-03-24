@@ -36,13 +36,13 @@ const items = [{
 },
 {
     "title": "Facebook",
-    "subtitle": "making me a your friend 😁",
+    "subtitle": "Add me on FB | Making me a your friend 😁",
     "image": facebook,
     "link": "https://www.facebook.com/Nzlpakaya"//
 },
 {
     "title": "YouTube",
-    "subtitle": "BDAKBERENANF | Official channel of mine",
+    "subtitle": "BDAKBERENANG | Official channel of mine",
     "image": youtube,
     "link": "https://youtube.com/channel/UCSbFP7eTpTXKXaG05VGyZxg"//youtube channel link 
 },
