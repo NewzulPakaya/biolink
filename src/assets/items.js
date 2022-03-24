@@ -9,9 +9,9 @@ import twitter from '../assets/twitter.png'
 
 const items = [{
     "title": "Website",
-    "subtitle": "Look at my work!",
+    "subtitle": "Look at my blog!",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://www.buymeacoffee.com/Badakberenang/posts" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
@@ -32,23 +32,23 @@ const items = [{
     "link": "https://twitter.com/BadakBerenangVI?t=00zPI2l6e6J6X9GWM2raWA&s=09"// twitter profile link 
 },
 {
-    "title": "Apps",
-    "subtitle": "Hub of my awesome 🔥 Apps",
-    "image": appstore,
-    "link": "#"//
+    "title": "Facebook",
+    "subtitle": "making me a your friend 😁",
+    "image": facebook,
+    "link": "https://www.facebook.com/Nzlpakaya"//
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "BDAKBERENANF | Official channel of mine",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
+    "link": "https://youtube.com/channel/UCSbFP7eTpTXKXaG05VGyZxg"//youtube channel link 
 },
 
 {
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | Hub to the Shots of my 😎 apps ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
+    "title": "Email",
+    "subtitle": "@Nuzul | Get in touch 😎 ",
+    "image": email,
+    "link": "nuzul.mhs17@ti.poligon.ac.id" // Dribbble profile link 
 },
 {
     "title": "Telegram",
