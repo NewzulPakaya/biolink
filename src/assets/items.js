@@ -6,6 +6,9 @@ import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import facebook from '../assets/facebook.png'
+import email from '../assets/email.jpeg'
+
 
 const items = [{
     "title": "Website",
